@@ -1,2 +1,3 @@
-# live-follower-and-sub-count
-Live follower/subscriber count
+# Live Follower and Sub Counter
+
+[Visit the site](https://iwillreku3206.github.io/live-follower-and-sub-counter)
