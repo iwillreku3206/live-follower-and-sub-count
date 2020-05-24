@@ -1,0 +1,30 @@
+{
+  "name": "live-follower-and-sub-count",
+  "version": "1.0.0",
+  "description": "A simple live follower/subscriber count for different social media sites. For embedding in OBS/Streaming Software.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iwillreku3206/live-follower-and-sub-count.git"
+  },
+  "keywords": [
+    "social",
+    "media",
+    "live",
+    "sub",
+    "count"
+  ],
+  "author": "IWillRekU3206",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iwillreku3206/live-follower-and-sub-count/issues"
+  },
+  "homepage": "https://github.com/iwillreku3206/live-follower-and-sub-count#readme",
+  "dependencies": {
+    "@mdi/font": "^5.2.45",
+    "jquery": "^3.5.1"
+  }
+}
